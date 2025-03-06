@@ -20,4 +20,4 @@ FraudGuard adalah aplikasi berbasis **Machine Learning** yang menggunakan **algo
 - **Python** (NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn)
 - **Jupyter Notebook / Google Colab** untuk eksperimen model
 - **Flask / FastAPI** (opsional) untuk deployment
-- **Streamlit** (opsional) untuk pembuatan dashboard interaktif
+- **Streamlit** (opsional) untuk pembuatan dashboard interaktif ok
